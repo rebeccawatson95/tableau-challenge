@@ -1,1 +1,4 @@
 # tableau-challenge
+# Rebecca Watson
+
+ Using data found in the Citi Bike Trip History Logs, I found two unexpected phenomena. The first is where the higher volume of trips start and end at. I was able to view on a map where these are located and this data could be used to know where the bikes need to be at the start of the next day. This will help provide bikes in the most common areas. The second is which days of the week, as well as time of day, have the higher number of users. This is good to know as a driver on the street, or even as a Citi Bike user because there will be more demand at those times and availability might be low. With more time and possibly joining other data sets, these phenomena could be analyzed further. 
